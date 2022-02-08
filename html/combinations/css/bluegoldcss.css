@@ -1,0 +1,63 @@
+#body{
+    background-color: rgb(0, 8, 85);
+    color: goldenrod;
+    margin-left: 50px;
+}
+#nadpis{
+    text-align: center;
+    font-size: 45px;    
+}
+#prvaveta{
+    font-size: 30px;
+}
+#meno{
+    color: goldenrod;
+}
+#first{
+    font-size: 25px;
+}
+
+.foto1{
+    width: 20%;
+    position: absolute;
+    right: 150px;
+    top: 200px;
+    border: 5px solid goldenrod;   
+}
+#span1{
+    font-size: 25px;
+}
+
+#par1{
+    font-size: 20px;
+    width: 800px;
+}
+
+#tabulka{
+    border: 2px solid goldenrod;
+    border-collapse: collapse;
+    width: auto;
+    height: auto;
+}
+
+.foto2{
+    width: 50%;
+}
+
+.foto3{
+    width: 30%;
+}
+td{
+    border: 1px solid goldenrod; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+#link{
+    text-align: center;
+    color: goldenrod;
+    font-size: 30px;
+}
