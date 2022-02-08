@@ -1,0 +1,20 @@
+#name{
+    text-align: center;
+    font-size: xx-large;
+    position: relative;
+    top: 15px;
+}
+
+#list{
+    position: relative;
+    left: 650px;
+    top: 75px;
+    font-size: x-large;
+}
+
+#back{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: 150px;
+}
