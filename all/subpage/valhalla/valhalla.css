@@ -1,5 +1,6 @@
 body {
 background-image: linear-gradient(rgb(255, 172, 172), rgba(255, 93, 93, 0.712) ,rgba(97, 0, 0, 0.918) );
+margin: 0%;
 }
 
 #valknut {
@@ -30,7 +31,7 @@ background-image: linear-gradient(rgb(255, 172, 172), rgba(255, 93, 93, 0.712) ,
 
 /* Change the color of links on hover */
 #topnav a:hover {
-  background-color: rgb(170, 252, 255);
+  background-color: rgb(255, 53, 87);
 }
 
 
@@ -77,4 +78,17 @@ video {
   text-align: center;
   font-weight: bold;
   font-size: 50px;
+}
+
+footer {
+  text-align: center;
+  text-decoration: none;
+  background-image: linear-gradient(to top, rgba(66, 0, 0, 1), rgba(66,0,0,0));
+  margin: none;
+  border-bottom: 10px solid rgba(66, 0, 0, 1);
+  color: white;
+}
+
+footer a{
+  color: white;
 }
