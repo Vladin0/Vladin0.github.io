@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(rgb(172, 234, 255, 1), rgba(93, 190, 255, 0.712) ,rgba(0, 0, 97, 0.918) );
+}
+
+#valknut {
+    width: 100px;
+    height: auto;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 45px;
+    position: relative;
+    top: 30px;
+}
+  
+#header {
+    font-size: 70px;
+    padding: 15px;
+    position: relative;
+    top: 15px;
+}
+
+#nazov {
+    text-align: center;
+    font-size: 100px;
+    position: relative;
+    left: 200px;
+    font-weight: bold;
+    text-align: center;
+    top: 20px;
+}
+
+#return a {
+    position: relative;
+    left: 450px;
+    padding: 18px ;
+    text-decoration: none;
+    font-size: 35px;
+    color: black;
+    top: 5px;
+}
+  
+#return a:hover {
+    background-color: rgb(147, 239, 255);
+}
